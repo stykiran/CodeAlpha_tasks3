@@ -1,2 +1,2 @@
 # CodeAlpha_tasks3
-ask Automation with Python Scripts
+Task Automation with Python Scripts
